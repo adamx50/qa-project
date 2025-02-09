@@ -1,0 +1,18 @@
+# Pasta de dependências do Node.js (não precisa ser versionada)
+node_modules/
+
+# Relatórios de testes e capturas de tela do Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Logs e caches
+logs/
+*.log
+.cache/
+
+# Arquivos do Cypress que podem ser regenerados
+cypress/downloads/
+cypress/results/
+
+# Configurações locais do VS Code
+.vscode/
